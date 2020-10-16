@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extentreports>
+	<configurations>
+		<encoding>UFT-8</encoding>
+		<documentTitle>SeleniumCucumber extent reports</documentTitle>
+		<reportName>Selenium - Cucumber automation report</reportName>
+		<reportHeadline> - v1.1.0</reportHeadline>
+	</configurations>
+</extentreports>
